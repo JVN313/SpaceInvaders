@@ -5,3 +5,7 @@ In order to play/run the game. You must first install pygame by simply using <st
 
 # Get Started
 After pygame is installed run the <strong>main.py</strong> file and enjoy the game
+
+# Controls
+Spacebar - Fire Laser
+Arrow Keys - Left & Right Movement
